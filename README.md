@@ -32,7 +32,7 @@ These projects demonstrate my understanding of networking concepts such as VLANs
 
 ---
 
-## 🧠 Skills Demonstrated
+##  Skills Demonstrated
 - VLAN Configuration  
 - Inter-VLAN Routing  
 - DHCP Configuration  
@@ -42,24 +42,24 @@ These projects demonstrate my understanding of networking concepts such as VLANs
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 - Cisco Packet Tracer  
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 <img width="700" height="450" alt="Topology" src="https://github.com/user-attachments/assets/7bc40863-9caa-4c9d-be8c-3ec406b8ea67" />
 <img width="700" height="450" alt="Topology" src="https://github.com/user-attachments/assets/21f1d506-20d4-4e8e-8ae8-df96f2e018d1" />
 <img width="700" height="450" alt="Topology" src="https://github.com/user-attachments/assets/0ef23fa1-751a-46f7-9b04-c376c236fc0a" />
 
 ---
 
-## 📈 Learning Outcome
+##  Learning Outcome
 These projects helped me strengthen both my theoretical and practical understanding of networking and how real-world networks are designed and managed.
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 - Implement advanced routing protocols  
 - Add network security features (Firewall, IDS/IPS)  
 - Build more complex enterprise-level network designs  
