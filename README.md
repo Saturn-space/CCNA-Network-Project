@@ -66,10 +66,10 @@ These projects helped me strengthen both my theoretical and practical understand
 
 ---
 
-## 👨‍💻 Author
+## Author
 Mohan Prasad
 
 ---
 
-## ⭐ Note
+## Note
 This repository is part of my continuous learning journey in networking and cybersecurity.
